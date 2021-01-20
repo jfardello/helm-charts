@@ -3,7 +3,7 @@ entries:
   gitea:
   - apiVersion: v2
     appVersion: 1.12.4
-    created: "2021-01-20T17:43:29.629219741+01:00"
+    created: "2021-01-20T23:21:45.73425036+01:00"
     description: Git with a cup of tea
     digest: 3c3c008680f1405b4a54ab671fdd5adb5fbef0107c648e5ca29e497d823e9100
     home: https://github.com/jfelten/gitea-helm-chart
@@ -25,4 +25,28 @@ entries:
     urls:
     - gitea-0.2.11.tgz
     version: 0.2.11
-generated: "2021-01-20T17:43:29.627440171+01:00"
+  - apiVersion: v2
+    appVersion: 1.12.4
+    created: "2021-01-20T23:21:45.732644974+01:00"
+    description: Git with a cup of tea
+    digest: f4fdcf1bff99dfc3329afa869248f29ead4cdc4dca42b03644c611090e577ebb
+    home: https://github.com/jfelten/gitea-helm-chart
+    icon: https://docs.gitea.io/images/gitea.png
+    keywords:
+    - git
+    - issue tracker
+    - code review
+    - wiki
+    - gitea
+    - gogs
+    maintainers:
+    - email: john.felten@gmail.com
+      name: John Felten
+    name: gitea
+    sources:
+    - https://github.com/go-gitea/gitea
+    - https://hub.docker.com/r/gitea/gitea/
+    urls:
+    - gitea-0.2.10.tgz
+    version: 0.2.10
+generated: "2021-01-20T23:21:45.731099747+01:00"
