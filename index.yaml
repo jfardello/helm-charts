@@ -3,9 +3,9 @@ entries:
   gitea:
   - apiVersion: v2
     appVersion: 1.12.4
-    created: "2021-01-20T23:21:45.73425036+01:00"
+    created: "2021-01-22T19:06:31.383818682+01:00"
     description: Git with a cup of tea
-    digest: 3c3c008680f1405b4a54ab671fdd5adb5fbef0107c648e5ca29e497d823e9100
+    digest: eeb4c7c5a71c889e699528245297860c466cc017c33954868722d1116388c4f6
     home: https://github.com/jfelten/gitea-helm-chart
     icon: https://docs.gitea.io/images/gitea.png
     keywords:
@@ -27,7 +27,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 1.12.4
-    created: "2021-01-20T23:21:45.732644974+01:00"
+    created: "2021-01-22T19:06:31.382455892+01:00"
     description: Git with a cup of tea
     digest: f4fdcf1bff99dfc3329afa869248f29ead4cdc4dca42b03644c611090e577ebb
     home: https://github.com/jfelten/gitea-helm-chart
@@ -49,4 +49,4 @@ entries:
     urls:
     - gitea-0.2.10.tgz
     version: 0.2.10
-generated: "2021-01-20T23:21:45.731099747+01:00"
+generated: "2021-01-22T19:06:31.380234609+01:00"
