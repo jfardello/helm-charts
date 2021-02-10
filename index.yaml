@@ -3,7 +3,7 @@ entries:
   gitea:
   - apiVersion: v2
     appVersion: 1.13.1
-    created: "2021-01-26T23:38:58.660575493+01:00"
+    created: "2021-02-10T23:00:16.9508118+01:00"
     description: Git with a cup of tea
     digest: a52eefe5ffc8ab021ee1624369dfd7bffae69dc611833a9eac7139f888117840
     home: https://github.com/jfelten/gitea-helm-chart
@@ -27,7 +27,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 1.12.4
-    created: "2021-01-26T23:38:58.659301883+01:00"
+    created: "2021-02-10T23:00:16.949089652+01:00"
     description: Git with a cup of tea
     digest: f4fdcf1bff99dfc3329afa869248f29ead4cdc4dca42b03644c611090e577ebb
     home: https://github.com/jfelten/gitea-helm-chart
@@ -49,4 +49,15 @@ entries:
     urls:
     - gitea-0.2.10.tgz
     version: 0.2.10
-generated: "2021-01-26T23:38:58.657015837+01:00"
+  hugo-webhook:
+  - apiVersion: v2
+    appVersion: 0.80.0-2.8.0
+    created: "2021-02-10T23:00:16.951281422+01:00"
+    description: Deploys a webhook that builds Hugo sites from git sources.
+    digest: 7ca362d833fff6edfb41e57113154859766fd68c2c4629c81ec8fcbd45f06128
+    name: hugo-webhook
+    type: application
+    urls:
+    - hugo-webhook-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-10T23:00:16.946065663+01:00"
